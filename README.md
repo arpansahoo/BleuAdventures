@@ -3,4 +3,4 @@ An iMessage sticker pack of Bleu the Blue Jay. Download to send these cute stick
 
 Feel free to file an issue if you have any feedback or comments.
 
-<p align="center"><a href="https://itunes.apple.com/"><img src="app-store.png" width="250" /></a></p>
+<p align="center"><a href="https://apps.apple.com/app/id1512611054?app=messages"><img src="app-store.png" width="250" /></a></p>

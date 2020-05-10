@@ -19,7 +19,7 @@ This privacy notice applies to all information collected through our mobile appl
 
 <br>
 
-### 1 WHAT INFORMATION DO WE COLLECT?
+### 1. WHAT INFORMATION DO WE COLLECT?
 <b>In Short:</b> We collect personal information that you provide to us.
 
 We collect personal information that you voluntarily provide to us when expressing an interest in obtaining information about us or our products and services, when contacting us.

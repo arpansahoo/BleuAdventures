@@ -20,6 +20,13 @@ This privacy notice applies to all information collected through our mobile appl
 <br>
 
 ### 1 WHAT INFORMATION DO WE COLLECT?
+<b>In Short:</b> We collect personal information that you provide to us.
+We collect personal information that you voluntarily provide to us when expressing an interest in obtaining information about us or our products and services, when contacting us.
+
+The personal information that we collect depends on the context of your interactions with us and the Apps, the choices you make and the products and features you use. The personal infromation we collect can include the following:
+
+All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
+
 <b>Information collected through our Apps</b>
 
 <b>In Short:</b> We may collect information regarding your when you use our apps.
@@ -97,7 +104,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 
 ### 10. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
-If you have questions or comments about this policy, you may email us at asahoo1@jhu.edu or by post to:
+If you have questions or comments about this policy, you may email us at <a href="mailto:asahoo1@jhu.edu">asahoo1@jhu.edu</a> or by post to:
 
 Bleu's Adventures 
 

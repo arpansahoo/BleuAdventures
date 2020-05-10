@@ -1,0 +1,65 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "angry.sticker"
+    },
+    {
+      "filename" : "confused.sticker"
+    },
+    {
+      "filename" : "crying.sticker"
+    },
+    {
+      "filename" : "eating.sticker"
+    },
+    {
+      "filename" : "existential-crisis.sticker"
+    },
+    {
+      "filename" : "facepalm.sticker"
+    },
+    {
+      "filename" : "friends.sticker"
+    },
+    {
+      "filename" : "happy.sticker"
+    },
+    {
+      "filename" : "heart-eyes.sticker"
+    },
+    {
+      "filename" : "hello.sticker"
+    },
+    {
+      "filename" : "hungry.sticker"
+    },
+    {
+      "filename" : "late.sticker"
+    },
+    {
+      "filename" : "puppy-eyes.sticker"
+    },
+    {
+      "filename" : "sleeping.sticker"
+    },
+    {
+      "filename" : "snake.sticker"
+    },
+    {
+      "filename" : "speechless.sticker"
+    },
+    {
+      "filename" : "tired.sticker"
+    },
+    {
+      "filename" : "wow.sticker"
+    }
+  ]
+}

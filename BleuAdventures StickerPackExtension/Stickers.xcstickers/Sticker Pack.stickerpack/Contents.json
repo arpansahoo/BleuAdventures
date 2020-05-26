@@ -8,58 +8,106 @@
   },
   "stickers" : [
     {
-      "filename" : "angry.sticker"
-    },
-    {
-      "filename" : "confused.sticker"
-    },
-    {
-      "filename" : "crying.sticker"
-    },
-    {
-      "filename" : "eating.sticker"
-    },
-    {
-      "filename" : "existential-crisis.sticker"
-    },
-    {
-      "filename" : "facepalm.sticker"
-    },
-    {
-      "filename" : "friends.sticker"
-    },
-    {
-      "filename" : "happy.sticker"
-    },
-    {
       "filename" : "heart-eyes.sticker"
     },
     {
-      "filename" : "hello.sticker"
-    },
-    {
-      "filename" : "hungry.sticker"
+      "filename" : "hi.sticker"
     },
     {
       "filename" : "late.sticker"
     },
     {
-      "filename" : "puppy-eyes.sticker"
+      "filename" : "happy.sticker"
     },
     {
-      "filename" : "sleeping.sticker"
+      "filename" : "friends.sticker"
     },
     {
       "filename" : "snek.sticker"
     },
     {
-      "filename" : "speechless.sticker"
+      "filename" : "sleeping.sticker"
     },
     {
       "filename" : "tired.sticker"
     },
     {
+      "filename" : "existential-crisis.sticker"
+    },
+    {
+      "filename" : "crying.sticker"
+    },
+    {
+      "filename" : "sick.sticker"
+    },
+    {
+      "filename" : "self-care.sticker"
+    },
+    {
+      "filename" : "hmpf.sticker"
+    },
+    {
+      "filename" : "angry.sticker"
+    },
+    {
+      "filename" : "speechless.sticker"
+    },
+    {
+      "filename" : "hungry.sticker"
+    },
+    {
+      "filename" : "eating.sticker"
+    },
+    {
+      "filename" : "confused.sticker"
+    },
+    {
+      "filename" : "puppy-eyes.sticker"
+    },
+    {
       "filename" : "wow.sticker"
+    },
+    {
+      "filename" : "starry-eyed.sticker"
+    },
+    {
+      "filename" : "wink.sticker"
+    },
+    {
+      "filename" : "slurp.sticker"
+    },
+    {
+      "filename" : "lifting.sticker"
+    },
+    {
+      "filename" : "thank-you.sticker"
+    },
+    {
+      "filename" : "dap.sticker"
+    },
+    {
+      "filename" : "fist-bump.sticker"
+    },
+    {
+      "filename" : "party.sticker"
+    },
+    {
+      "filename" : "nerdy.sticker"
+    },
+    {
+      "filename" : "hello.sticker"
+    },
+    {
+      "filename" : "like.sticker"
+    },
+    {
+      "filename" : "dislike.sticker"
+    },
+    {
+      "filename" : "facepalm.sticker"
+    },
+    {
+      "filename" : "graduate.sticker"
     }
   ]
 }
